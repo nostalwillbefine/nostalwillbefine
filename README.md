@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About Me
+
+I'm a senior high school student from China mainland.
+
+I code programs just for fun. And most of my programs are about Minecraft.
+
+# Contact
+
+**Email**: yuu8583@proton.me
+
+**Tencent QQ**: 545847685
+
+**Discord**: nostalfinals
